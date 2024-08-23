@@ -17,7 +17,7 @@ export const project = [
     desc: "The platform serves as a digital marketplace where potential adopters can browse and select pets, shelters can list available pets, and donors can contribute to support animal welfare.",
     tech: "Html,CSS,JAVASCRIPT,REACT",
     git: "https://github.com/Sartik0709/Panasonic-Pioneers_062",
-    deploy: "pet-petpals.netlify.app/"
+    deploy: "https://pet-petpals.netlify.app/"
   },
 
   {

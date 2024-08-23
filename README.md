@@ -28,7 +28,7 @@ With 1200+ hours of experience, I specialize in crafting dynamic, user-friendly 
 - 🎨 Open to new ideas and suggestions - share yours!
 - ✉ Reach me at [shubhamkhangar45@gmail.com](mailto:shubhamkhangar45@gmail.com) - let's chat!
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1aWZCCccrRm3iMQ_DvZCeKSPmzY_TaS_x/view?usp=sharing) (opens in a new tab) for the full scoop.
-- 💼 Dive into my [Portfolio](https://github.com/ShubhamKhangar089/Portfolio) (opens in a new tab) - where every project tells a story!
+- 💼 Dive into my [Portfolio](https://portfolio-nu-lovat-82.vercel.app/) (opens in a new tab) - where every project tells a story!
 
 ---
 

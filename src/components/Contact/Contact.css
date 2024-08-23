@@ -57,6 +57,7 @@
 }
 .contact-form {
   display: flex;
+  justify-content: center;
 }
 .massge_img {
   height: 300px;

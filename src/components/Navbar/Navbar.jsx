@@ -4,7 +4,6 @@ import "./Navbar.css";
 import { Link } from "react-scroll";
 import D1 from "../../img/D1.png";
 import Resume from "../Intro/resume.pdf"
-
 import { themeContext } from "../../Context";
 import { GoThreeBars } from "react-icons/go";
 import { IoClose } from "react-icons/io5";
@@ -79,7 +78,7 @@ const Navbar = () => {
               >
                 <a
                   href={Resume}
-                  download={"Shubhamk_resume"} //Shubhamk_resume
+                  download={"Shubhamk_resume"}
                   rel="noreferrer"
                   target="_blank"
                 >

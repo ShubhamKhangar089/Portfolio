@@ -75,7 +75,7 @@ const Contact = () => {
                 <p>GitHub</p>
               </a>
               <a
-                href="shubhamkhangar45@gmail.com"
+                href="mailto:shubhamkhangar45@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="git_con gmail">
@@ -93,10 +93,9 @@ const Contact = () => {
 
 export default Contact;
 
-// import { useForm, ValidationError } from '@formspree/react';
 
 export function ContactForm() {
-  const [state, handleSubmit] = useForm("xwkyadvj");
+  const [state, handleSubmit] = useForm("mzzpkejj");
   if (state.succeeded) {
     return <p>Thanks for joining!</p>;
   }
